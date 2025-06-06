@@ -1,10 +1,9 @@
 # Job_App_for_Manage-Frontend
 
-# 📂 Job_App
 
 ## 📝 Description
 
-**Job_App** est une application de gestion des clients et des ventes développée en **Vue.js**.  
+**Job_App_for_Manage-Frontend** est une application de gestion des clients et des ventes développée en **Vue.js**.  
 Elle permet aux utilisateurs enregistrés d’ajouter, visualiser et exporter les ventes de manière intuitive.
 
 L'application gère deux rôles :
