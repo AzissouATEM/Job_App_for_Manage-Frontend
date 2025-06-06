@@ -56,8 +56,21 @@ L'application gère deux rôles :
 
 ## ▶️ Instructions pour exécuter l’application
 
+
+
 1. **Cloner le projet** :
 
-```bash
-git clone https://github.com/ton-compte/job_app.git
-cd job_app
+
+
+2. Installer les dépendances :
+   npm install
+   
+
+
+3. Lancer le serveur de développement :
+   npm run dev
+
+
+4. Accéder à l’application :
+   http://localhost:5173
+
