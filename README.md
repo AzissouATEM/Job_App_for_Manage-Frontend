@@ -74,3 +74,18 @@ L'application gère deux rôles :
 4. Accéder à l’application :
    http://localhost:5173
 
+
+
+5. 🔮 Mises à jour futures possibles
+Intégration d’un backend (Node.js / Express / MongoDB) pour une vraie persistance.
+
+Ajout d’un tableau de bord analytique avec plus de statistiques.
+
+Possibilité d’éditer / supprimer les enregistrements clients.
+
+Système de pagination et de recherche dans le tableau.
+
+Possibilité d’avoir plusieurs admins avec des droits variés.
+
+Envoi automatique du rapport PDF par mail.
+
